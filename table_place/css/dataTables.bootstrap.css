@@ -41,7 +41,7 @@ div.dataTables_paginate ul.pagination {
 	white-space: nowrap;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
 	div.dataTables_wrapper > div.row > div,
 	div.dataTables_length,
 	div.dataTables_filter,
@@ -368,4 +368,9 @@ div.DTFC_RightBodyWrapper table.dataTable thead .sorting_desc:after {
  */
 div.FixedHeader_Cloned table {
 	margin: 0 !important
+
 }
+
+div.DataTable( {
+    fixedHeader: true
+} );
