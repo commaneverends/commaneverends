@@ -37,3 +37,4 @@ Here you can search spaces for FLINTA*.
 Contact us if you have any suggestion.<a href="https://commaneverends.github.io/contact" target="_blank">(click)</a>
 
 </div>
+</div>
