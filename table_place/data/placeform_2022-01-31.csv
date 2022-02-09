@@ -29,7 +29,6 @@ pub,Südblock,"Admiralstr. 1-2. 10999 Berlin",https://www.suedblock.org/wp/
 pub,Tristeza,"Pannierstr. 5. 12047 Berlin",https://tristezakollektiv.wordpress.com/
 pub,Muted horn,"Flughafenstr. 49 12053 Berlin",https://www.shop.themutedhorn.com/
 shop,Other Nature,"Mehringdamm 79. 10965 Berlin",https://www.other-nature.de/
-
 bookshop,Another country,"Riemannstr. 7, 10961 Berlin",http://www.anothercountry.de/
 bookshop,Bücherbogen Savignyplatz,"Stadtbahnbogen. 593, 10623 Berlin",https://www.buecherbogen.com/
 bookshop,Curious Fox,"Flughafenstr. 22, 12053 Berlin",https://curiousfoxbooks.com/index.php
@@ -44,12 +43,11 @@ bookshop,Shesaidbooks,"Kottbusser Damm. 79. 10967 Berlin",https://www.shesaid.de
 bookshop,Zabriskie-Buchladen für Kultur und Natur,"Reichenberger Str. 150. 10999 Berlin",https://zabriskie.de/
 bookshop,Buchbox,"Gruenberger Str. 68, 10245 Berlin",https://buchboxberlin.de/
 bookshop,The Gentle Bookshop,"Ebelingstr 5, 10249 Berlin",https://thegentlebookshop.com/
-bookshop,Schwarze Risse Buchladen, "Gneisenaustr. 2a, 10961 Berlin",https://schwarzerisse.de/
+bookshop,Schwarze Risse Buchladen,"Gneisenaustr. 2a, 10961 Berlin",https://schwarzerisse.de/
 bookshop,BuchHafen Englishh Books,"Okerstraße. 1, 12049 Berlin", https://buchhafen-berlin.de/en/english-books/
 bookshop,Buchhandlung Oh*21,"Oranienstraße 21, 10999 Berlin", https://www.oh21.de/
 bookshop,Buchladen zur schwankenden Weltkugel,"Kastanienallee 85, 10435 Berlin", https://www.buchladen-weltkugel.de/
 bookshop,b.-books Buchladen,"lübbenerstr. 14, 10997 berlin", http://www.b-books.de/
-
 library,Spinnboden Lesbenarchiv & Bibliothek e.V.,"Anklamer Str. 38. (2. Hinterhof / 3. Aufgang / 2. Stock) 10115 Berlin",http://www.spinnboden.de/
 networking,Aquarium at Südblock narrativ e.V.,"Skalitzer Str. 6. 10999 Berlin",https://www.suedblock.org/wp/category/aquarium/
 networking,COWOMEN,"Griebenowstr. 10-11. 10435 Berlin",https://cowomen.com/
@@ -61,7 +59,6 @@ party,Loophole,"Boddinstrasse 60. 12053 Berlin",https://loophole-berlin.com
 party,SchwuZ,"Rollbergstrasse 26. 12053 Berlin",https://www.schwuz.de
 art,Käthe-Kollwitz-Museum Berlin,"Fasanenstr. 24. 10719 Berlin",https://www.kaethe-kollwitz.de/en/
 art,The Ballery,"Nollendorfstrasse 11/12. 10777 Berlin",https://theballery.com
-
 film, "Bi’bak","Prinzenallee 59. 13359 Berlin",http://www.bi-bak.de/
 film, Wolf kino,"Weserstraße 59. 12045 Berlin",https://wolfberlin.org/en/kino
 film, B-ware! Ladenkino,"Gärtnerstraße 19. 10245 Berlin",https://www.ladenkino.de/
