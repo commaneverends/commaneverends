@@ -24,7 +24,7 @@ https://www.berlinale.de/en/programme/programme/detail.html?film_id=202214036
 
 #refugee
 
-## The Apartment with Two Women by (Korean,  Subtitles: English)
+## The Apartment with Two Women by Kim Se-in (Korean,  Subtitles: English)
 "In her debut film, director Kim Se-in draws an incisive psychological portrait of two women who become entangled in an all-consuming struggle for recognition and a better life. "
 
 https://www.berlinale.de/en/programme/programme/detail.html?film_id=202205192
