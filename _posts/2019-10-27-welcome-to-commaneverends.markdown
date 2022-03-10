@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ",neverends"
-date:   2019-10-27 17:42:33 +0100
+title: ",neverends"
+date: 2019-10-27 17:42:33 +0100
 categories: jekyll update
 ---
 # Commaneverends
