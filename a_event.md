@@ -20,8 +20,9 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <div class="bodycontents">
 <div class="maintext">
 <h2>event, neverends </h2>
-Here you can find interesting online/offline events: performances, workshop, reading group, exhibition, tour, lectures. (until June 2021)<br/>
-Currently, we're posting feminist events happening in berlin via <span><a href="https://instagram.com/commaneverends" target="iframe_form">instagram </a></span> Follow us there, so we can directly connect with you and share more interesting events with you and friends! <br/>
+Here you can find interesting online/offline events: performances, workshop, reading group, exhibition, tour, lectures. (until June 2021)<br/><br/>
+Currently, we're posting feminist events happening in berlin via instagram <br/>
+Follow us <span style="font-weight:bold"><a href="https://instagram.com/commaneverends" target="iframe_form">here</a></span>, and share! so we can directly connect with you and share more interesting events with you and friends :D <br/>
 <br/>
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_event/index.html" frameBorder="0"></iframe>
 
