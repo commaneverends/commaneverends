@@ -2,7 +2,7 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-title: 'commaneverends.github.io'
+title: "commaneverends.github.io"
 baseurl: "/"
 url: "https://commaneverends.github.io"
 
@@ -15,9 +15,7 @@ header_pages:
   - a_link.md
   - contact.md
 
-footer: '© 2020 created with love by commaneverends. <br/> 
-follow us on <a href="https://twitter.com/commaneverends">twitter</a>
-<a href="https://www.instagram.com/commaneverends/">instagram</a>'
+footer: '© 2020 created with love by commaneverends. <br/> follow us on <a href="https://twitter.com/commaneverends">twitter</a> <a href="https://www.instagram.com/commaneverends/">instagram</a>'
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
