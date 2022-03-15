@@ -1,13 +1,13 @@
 var markers = [
   {
-    name: 'Goroka',
-    city: 'Goroka, Papua New Guinea',
+    name: 'Schokofabrik',
+    city: 'Mariannenstraße 6. 10997 Berlin',
     iata_faa: 'GKA',
     icao: 'AYGA',
-    lat: -6.081689,
-    lng: 145.391881,
+    lat: 52.50090765,
+    lng: 13.423274314933629,
     alt: 5282,
-    tz: 'Pacific/Port_Moresby',
+    tz: 'Networking',
   },
   {
     name: 'Madang',
