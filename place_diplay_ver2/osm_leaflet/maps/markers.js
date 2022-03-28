@@ -10,14 +10,14 @@ var markers = [
     tz: 'Networking',
   },
   {
-    name: 'Madang',
+    name: 'Madang2',
     city: 'Madang, Papua New Guinea',
     iata_faa: 'MAG',
     icao: 'AYMD',
-    lat: -5.207083,
-    lng: 145.7887,
+    lat: 52.50090760,
+    lng: 13.423274314933629,
     alt: 20,
-    tz: 'Pacific/Port_Moresby',
+    tz: 'Networking',
   },
   {
     name: 'Mount Hagen',
