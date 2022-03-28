@@ -13,10 +13,10 @@ var markers = [
     name: 'Madang2',
     city: 'Madang, Papua New Guinea',
     iata_faa: 'MAG',
-    icao: 'AYMD',
+    icao: 'AYGA',
     lat: 52.50090760,
     lng: 13.423274314933629,
-    alt: 20,
+    alt: 5282,
     tz: 'Networking',
   },
   {
