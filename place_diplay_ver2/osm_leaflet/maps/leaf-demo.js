@@ -39,7 +39,7 @@ for (var i = 0; i < markers.length; ++i) {
     Math.round(markers[i].alt * 0.3048) +
     ' m' +
     '<br/><b>Timezone:</b> ' +
-    markers[i].tz
+    markers[i].tz;
 
   var m = L.marker([markers[i].lat, markers[i].lng], {
     icon: myIcon,
