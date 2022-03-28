@@ -14,9 +14,9 @@ var markers = [
     city: 'Madang, Papua New Guinea',
     iata_faa: 'MAG',
     icao: 'AYGA',
-    lat: 52.50090760,
-    lng: 13.423274314933629,
-    alt: 5282,
+    lat: 52.51605,
+    lng: 13.456856,
+    alt: 5281,
     tz: 'Networking',
   },
   {
